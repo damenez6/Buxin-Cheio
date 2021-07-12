@@ -11,7 +11,7 @@ from PPlay.sprite import*
 while(True):
     #Entrada de dados
    
-   
+    SUS PEI TO
 
     #Update dos Game Objects
     
